@@ -13,7 +13,7 @@
 # EJECUTADO
 ![image](https://github.com/user-attachments/assets/8510165b-b5f2-41b4-a889-5468cb89d1fc)
 
-#PROGRAMA 3: Dar un entero positivo y resuelva su factorial.
+# PROGRAMA 3: Dar un entero positivo y resuelva su factorial.
 # CODIGO 
 ![image](https://github.com/user-attachments/assets/d56cebb4-695d-410b-a512-12613082f98f)
 ![image](https://github.com/user-attachments/assets/940fe3ac-ec3f-4282-b0a7-d03c46045c33)
